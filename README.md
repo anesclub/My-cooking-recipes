@@ -6,7 +6,7 @@ Feel free to pull request for new recipes as long as you tested them yourself (n
 
 > I like to make most of my food from scratch. I also try to only cook with the best and noble ingredients.
 
-I use metrics units *(gram, C°, centimeter)* for more precision and accuracy. When I use tablespoon and teaspoon, that means that it's up to you to tune up or down the taste. 
+I use metric units *(gram, C°, centimeter)* for more precision and accuracy. When I use tablespoon and teaspoon, that means that it's up to you to tune up or down the taste. 
 
 If you have any questions for me, please let me know.
 
