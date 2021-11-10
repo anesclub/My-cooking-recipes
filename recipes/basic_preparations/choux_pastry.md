@@ -1,6 +1,6 @@
----
-title: Choux Pastry (Pâte à choux)
-source: [Philippe Conticini](https://blog.beko.fr/pate-a-choux-conticini-recette/)
+| Choux Pastry (Pâte à choux) | 
+| --- |
+| source: [Philippe Conticini](https://blog.beko.fr/pate-a-choux-conticini-recette/)| 
 ---
 
 ![alt text](media/choux.jpg)
