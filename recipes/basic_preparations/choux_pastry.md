@@ -9,9 +9,9 @@ Choux pastry, is a delicate pastry dough used in many pastries. The pastry is us
 
 # Ingredients
 
-* Ingredient 1
-* Ingredient 2
-* etc.
+- [ ] Ingredient 1
+- [ ] Ingredient 2
+- [ ] etc.
 
 # Preparation
 
