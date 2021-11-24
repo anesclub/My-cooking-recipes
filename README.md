@@ -13,13 +13,13 @@ If you have any questions for me, please let me know.
 ## Table of Contents
 
 + [Basic Preparations](recipes/basic_preparations)
-// + [Savoury](recipes)
-// + [Soups](recipes)
-// + [Pasta (homemade)](recipes)
-// + [Cakes](recipes)
-// + [Desserts](recipes)
-// + [Sauces](recipes)
-// + [Dehydrated meals](recipes)
++ [Savoury](recipes)
++ [Soups](recipes)
++ [Pasta (homemade)](recipes)
++ [Cakes](recipes)
++ [Desserts](recipes)
++ [Sauces](recipes)
++ [Dehydrated meals](recipes)
 
 ## License
 
