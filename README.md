@@ -16,7 +16,7 @@ If you have any questions for me, please let me know.
 + [Savoury](recipes)
 + [Soups](recipes)
 + [Pasta (homemade)](recipes)
-+ [Cakes](recipes)
++ [Cookies & Cakes](recipes)
 + [Desserts](recipes)
 + [Sauces](recipes)
 + [Dehydrated meals](recipes)
