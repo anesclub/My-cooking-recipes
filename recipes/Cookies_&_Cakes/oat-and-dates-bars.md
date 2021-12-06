@@ -2,7 +2,7 @@
 title: Oat & Dates Energy Bars
 ---
 
-![alt text](media/oat-and-dates-bars.jpg)
+![Oat & Dates Energy Bars](media/oat-and-dates-bars.jpg)
 
 No-Bake Oat, dated, and Almond Butter Energy Bars quickly and easily come together in a big bowl with wholesome ingredients like oats, nuts, chia seeds, dried fruit, peanut butter, and honey! It's customizable according to taste.
 
