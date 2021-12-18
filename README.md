@@ -13,7 +13,7 @@ If you have any questions for me, please let me know.
 ## Table of Contents
 
 + Basic Preparations
-+ Savoury(recipes)
++ [Savoury(recipes)](recipes/savoury)
 + Soups (recipes)
 + Pasta (homemade)
 + [Cookies & Cakes](recipes/Cookies_&_Cakes)
