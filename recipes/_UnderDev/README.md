@@ -12,14 +12,14 @@ If you have any questions for me, please let me know.
 
 ## Table of Contents
 
-+ Basic Preparations
-+ Savoury(recipes)
-+ Soups (recipes)
-+ Pasta (homemade)
++ [Basic Preparations](recipes/basic_preparations)
++ [Savoury](recipes)
++ [Soups](recipes)
++ [Pasta (homemade)](recipes)
 + [Cookies & Cakes](recipes/Cookies_&_Cakes)
-+ Desserts
-+ Sauces
-+ Dehydrated meals
++ [Desserts](recipes)
++ [Sauces](recipes)
++ [Dehydrated meals](recipes)
 
 ## License
 
