@@ -20,7 +20,7 @@ If you have any questions for me, please let me know.
 - Desserts
 - Sauces
 - Dehydrated meals
-- [Crepes](recipes/Plain_Flour_Crepes)
+- [Crepes](recipes/Crepes/Plain_Flour_Crepes.md)
 
 ## License
 
